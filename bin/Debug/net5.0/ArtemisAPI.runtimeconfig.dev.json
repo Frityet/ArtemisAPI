@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Frityet/.dotnet/store/|arch|/|tfm|",
+      "/Users/Frityet/.nuget/packages"
+    ]
+  }
+}

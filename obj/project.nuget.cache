@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnF9uinYZKxR1sJ8d5eY5eb2ly4QMA46Jo7d6SsMe9u7WYJz0fpSMC9ENSf/De47hHX9VWgJnoPPrib/bD1IrA==",
+  "success": true,
+  "projectFilePath": "/Users/Frityet/Documents/ArtemisAPI/ArtemisAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/Frityet/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Frityet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Frityet/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/Frityet/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/Frityet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/Frityet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
